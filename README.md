@@ -1,8 +1,8 @@
 ### Oii! Eu sou a Kariely Santos :)
 
 
-- 🔭 Cursando o 3° ano Integrado em Técnico em Informática
-- 🌱 Aprendendo Programação Móvel(Flutter) e Web(HTML e CSS)
+- 🔭 Cursando o 4° ano Integrado em Técnico em Informática
+- 🌱 Aprendendo Programação Web(HTML e CSS)
 
 <div>
    <a href="https://github.com/KarielySantos">
